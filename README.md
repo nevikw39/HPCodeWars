@@ -11,3 +11,5 @@
 所以現在也只能到 [Wayback Machine](https://web.archive.org/web/20191205064919/http://www.hpcodewars.com.tw/index.php?page=cw7) 去憑欄弔古了。
 
 好在我電腦裡還有留著當年下載下來的部分檔案，因此放上來看有沒有人需要。
+
+另外 2014 年有都是壓縮檔好麻煩，就沒有再處理。
