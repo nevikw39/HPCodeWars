@@ -1,0 +1,7 @@
+K > O ? true
+F > W ? false
+B ^ U ? false
+O ^ V ? true
+A > Z ? false
+F > Z ? true
+X ^ Z ? false

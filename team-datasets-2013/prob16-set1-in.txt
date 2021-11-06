@@ -1,0 +1,18 @@
+9
+A + B : C , D , E .
+F + G : H .
+I + J : K , L .
+C + H : M , N .
+D + K : O .
+L + E : P , Q , R , S .
+N + Q : T , U , V .
+O + S : W , X .
+Y + H : Z .
+7
+K > O ?
+F > W ?
+B ^ U ?
+O ^ V ?
+A > Z ?
+F > Z ?
+X ^ Z ?
